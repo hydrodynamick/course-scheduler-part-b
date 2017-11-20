@@ -1,4 +1,3 @@
-///testing testing
 
 describe('Schedule', function() {
     var schedule;
